@@ -34,3 +34,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+## Key Featues
+🏬 Multi-tenant architecture
+🌐 Vendor subdomains
+🎨 Custom merchant storefronts
+💳 Stripe Connect integration
+💰 Automatic platform fees
+⭐ Product ratings & reviews
+📚 User purchase library
+🧑‍💼 Role-based access control
+🛠️ Admin dashboard
+🧾 Merchant dashboard
+🧱 Payload CMS backend
+🗂️ Category & product filtering
+🔍 Search functionality
+🖼️ Image upload support
+⚙️ Built with Next.js 15
+🎨 TailwindCSS V4 styling
+💅 ShadcnUI components
