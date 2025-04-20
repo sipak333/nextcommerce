@@ -35,7 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-## Key Features
+## Key Feature
 🏬 Multi-tenant architecture
 🌐 Vendor subdomains
 🎨 Custom merchant storefronts
@@ -52,4 +52,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 🖼️ Image upload support
 ⚙️ Built with Next.js 15
 🎨 TailwindCSS V4 styling
-💅 ShadcnUI components
+
