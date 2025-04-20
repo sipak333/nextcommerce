@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Contact Us | NextCommerce',
-  description: 'This is an contact page',
+  description: 'This is a contact page',
 };
 
 const Contact = () => {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Features | NextCommerce',
-  description: 'This is an features page',
+  description: 'This is a features page',
 };
 
 const Features = () => {

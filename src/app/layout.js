@@ -9,8 +9,8 @@ const specialelite = DM_Sans({
 
 
 export const metadata = {
-  title: "Next-ECommerce",
-  description: "Created by create next app",
+  title: "E-Commerce",
+  description: "Created using next js",
 };
 
 export default function RootLayout({ children }) {
