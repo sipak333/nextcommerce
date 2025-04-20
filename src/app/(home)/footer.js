@@ -1,0 +1,9 @@
+export const Footer = () => {
+    const year = new Date().getFullYear();
+    return(
+        <footer className="flex border-t justify-center p-6">
+            <p className="font-medium">{year}  funroad Inc | All Rights Reserved</p>
+        </footer>
+    );
+};
+
