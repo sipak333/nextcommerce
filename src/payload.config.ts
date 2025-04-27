@@ -22,7 +22,7 @@ export default buildConfig({
   },
   collections: [Users, Media, Categories],
   editor: lexicalEditor(),
-  secret: process.env.PAYLOAD_SECRET || '',
+  secret: process.env.PAYLOAD_SECRET || (process.env.NODE_ENV === 'production' ? undefined : 'dev_secret_replace_me'),
   typescript: {
     outputFile: path.resolve(dirname, 'payload-types.ts'),
     // outputFile: path.resolve(dirname, './generated-types.ts'),

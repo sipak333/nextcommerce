@@ -21,7 +21,7 @@ export const NavbarSidebar = ({ isOpen, onClose }) => {
       "fixed top-0 left-0 h-full w-3/4 sm:w-1/2 bg-white z-50 p-6 shadow-md transform transition-transform duration-300 ease-in-out",
       isOpen ? "translate-x-0" : "-translate-x-full"
     )}>
-      <button onClick={onClose} className="mb-4 text-xl font-bold">✕</button>
+      <button onClick={onClose} className="mb-4 text-xl font-bold" aria-label="Close navigation menu">✕</button>
       <nav className="flex flex-col gap-4  ">
         {navbarItems.map((item) => (
           <Link key={item.href} href={item.href} onClick={onClose}>
