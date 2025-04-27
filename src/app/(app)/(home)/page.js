@@ -9,7 +9,7 @@ export default function Home() {
     return (
     <>
         <div className="p-4">
-            <div className="w-[500px]  flex flex-col gap-y-4">
+            <div className="w-full max-w-[500px] flex flex-col gap-y-4">
                 <p className="text-red-400">Fillout this form</p>
                 <Form>
                     <Progress value={30}></Progress>
